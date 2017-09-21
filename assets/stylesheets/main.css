@@ -1,0 +1,25 @@
+.top-header,footer {
+    background: #ff942a;
+    background: linear-gradient(to right, #ff942a, #ffffff, #138806);
+}
+.mid-header .container h1{
+	text-align: center;
+	color: brown;
+	padding-bottom: 10px;
+
+}
+.mid-header .container h2{
+	padding: 10px;
+	color: white;
+}
+.navbar{
+	margin-bottom: 0;
+}
+
+footer{
+	padding: 20px;
+}
+#links ul li a:hover{
+	color: green;
+}
+
